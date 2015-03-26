@@ -1,0 +1,42 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.filler {
+	width: 100%;
+	height: 225px;
+}
+
+#loadSpinner {  
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index:1000;
+    background-color:grey;
+    opacity: .8;
+ }
+
+.ajax-loader {
+    position: fixed;
+    left: 30%;
+    top: 30%;
+    display: block;     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
