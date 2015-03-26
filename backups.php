@@ -42,7 +42,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="index.php">Home</a></li>
             <li><a href="createnew.php">New BackUps</a></li>
-            <li class="active"><a href="backups.php">View All BackUp</a></li>
+            <li class="active"><a href="backups.php">View All BackUps</a></li>
             <!--<li><a href="custom.php">Create Custom BackUp</a></li>-->
             <li><a href="#">Compare BackUps</a></li>
           </ul>
